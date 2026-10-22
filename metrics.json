@@ -1,0 +1,15 @@
+{
+  "codemixed_n": 40,
+  "codemixed_llm_macro_f1": 0.974825174825175,
+  "codemixed_baseline_macro_f1": 0.642614070421557,
+  "codemixed_llm_accuracy": 0.9714285714285714,
+  "codemixed_urgency_accuracy": 0.8,
+  "escalation_rate": 0.125,
+  "escalated_count": 5,
+  "escalation_precision": 1.0,
+  "needed_escalation_count": 6,
+  "escalation_recall": 0.8333333333333334,
+  "english_n": 60,
+  "english_llm_macro_f1": 0.8527777777777779,
+  "english_baseline_macro_f1": 0.9740259740259741
+}

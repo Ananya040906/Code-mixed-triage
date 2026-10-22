@@ -6,7 +6,7 @@ from groq import Groq
 # Change the model name here only. Groq retires models over time.
 MODEL = "openai/gpt-oss-120b"
 
-client = Groq(api_key=os.environ["GROQ_API_KEY"])
+client = Groq(api_key=os.environ["GROQ_API_KEY"], timeout=25, max_retries=1)
 
 CATEGORIES = [
     "ACCOUNT", "CANCEL", "CONTACT", "DELIVERY", "FEEDBACK", "INVOICE",
