@@ -1,0 +1,16 @@
+message,expected_category,expected_urgency
+ennoda refund innum varala 10 naal aachu,REFUND,high
+password marandhutten reset link anuppunga,ACCOUNT,medium
+mera order kab tak aayega,DELIVERY,medium
+invoice copy bhejiye please,INVOICE,low
+payment fail ho gaya paisa kat gaya,PAYMENT,high
+address maatha mudiyuma,SHIPPING,medium
+agent kitta pesanum,CONTACT,medium
+newsletter la irundhu unsubscribe pannunga,SUBSCRIPTION,low
+order cancel panna fee evlo,CANCEL,low
+service romba mosam,FEEDBACK,medium
+order enga irukku track pannanum,ORDER,medium
+order change pannanum size thappa order panniten,ORDER,medium
+my order status enna,ORDER,medium
+Hi,,low
+help venum,,low
