@@ -1,0 +1,41 @@
+message,expected_category,expected_urgency,should_escalate
+en account delete pannanum eppadi,ACCOUNT,low,no
+mera password reset link nahi aa raha,ACCOUNT,high,no
+new account create panna mudiyala error varuthu,ACCOUNT,medium,no
+mujhe apna email id change karna hai profile mein,ACCOUNT,low,no
+otp varala login panna mudiyala,ACCOUNT,high,no
+order ippo engaye irukku,ORDER,medium,no
+order cancel pannidunga please enaku venam,ORDER,medium,no
+maine galti se galat size ka order kar diya usse change karo,ORDER,medium,no
+mera parcel kahan hai track nahi ho raha,ORDER,medium,no
+naan oru new order place panna try panren aana button work aagala,ORDER,medium,no
+ye order mat bhejna cancel kar do,ORDER,medium,no
+refund policy enna sollunga return panna evlo days,REFUND,low,no
+product kharab nikla paisa wapas chahiye,REFUND,high,no
+refund track panna mudiyala status kaatunga,REFUND,medium,no
+mera refund abhi tak nahi aaya 15 din ho gaye,REFUND,high,no
+box udainju vandhuchu refund venum seekiram,REFUND,high,no
+gpay la paisa cut aagiduchu order confirm aagala,PAYMENT,high,no
+paytm se payment nahi ho raha error aa raha hai,PAYMENT,high,no
+cash on delivery irukka illaya,PAYMENT,low,no
+kya main card se pay kar sakta hu,PAYMENT,low,no
+gst invoice venum company name oda,INVOICE,low,no
+mujhe last order ka bill pdf mein chahiye,INVOICE,low,no
+invoice la thappa amount irukku check pannunga,INVOICE,medium,no
+delivery ku evlo naal aagum chennai ku,DELIVERY,low,no
+express delivery option hai kya,DELIVERY,low,no
+kal tak delivery ho jayegi kya,DELIVERY,medium,no
+pin code thappa pottutten shipping address update pannunga,SHIPPING,medium,no
+office address add karna hai shipping ke liye,SHIPPING,low,no
+customer care number venum pesanum,CONTACT,medium,no
+kisi real person se baat karwao bot nahi chahiye,CONTACT,medium,no
+delivery boy romba rude ah pesinaru complaint pannanum,FEEDBACK,medium,no
+app bahut slow hai bilkul achha nahi laga,FEEDBACK,low,no
+product quality super irundhuchu thanks,FEEDBACK,low,no
+roz email aate hain unsubscribe kaise karu,SUBSCRIPTION,low,no
+order cancel karne pe kitna charge lagta hai,CANCEL,low,no
+hello,,low,yes
+aaj ka match kaun jeeta,,low,yes
+asdfgh jkl,,low,yes
+idhu enna pa ethuvum puriyala,,low,yes
+bhai kuch kaam hai,,low,yes
