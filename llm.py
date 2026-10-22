@@ -23,11 +23,11 @@ Pick ONE category from: {CATEGORIES}, or "NONE".
 
 Label guide (follow it strictly):
 - ACCOUNT: create/delete/edit account, password recovery, login or registration problems, switching account
-- ORDER: place, track, change or CANCEL an order ("cancel my order" is ORDER, not CANCEL)
+- ORDER: place, track, change or CANCEL an order. "Where is my order/parcel/package" (tracking) is ORDER. "Cancel my order" is ORDER, not CANCEL
 - REFUND: refund policy, asking for money back, refund status. Damaged or wrong item with a refund request is REFUND
 - PAYMENT: payment failed or money deducted, which payment methods are accepted
 - INVOICE: asking for a bill or invoice copy, checking an invoice
-- DELIVERY: how long delivery takes, delivery options ("when will it arrive")
+- DELIVERY: only how long delivery takes, delivery options or delivery charges ("how many days will delivery take"). Asking where a specific parcel is belongs to ORDER
 - SHIPPING: change or set up the shipping address
 - CONTACT: wants to talk to customer service or a human agent
 - FEEDBACK: complaints and reviews about service or product

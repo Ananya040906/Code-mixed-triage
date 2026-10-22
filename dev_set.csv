@@ -14,3 +14,16 @@ order change pannanum size thappa order panniten,ORDER,medium
 my order status enna,ORDER,medium
 Hi,,low
 help venum,,low
+refund venum aana address um maathanum,REFUND,high
+refund??,REFUND,medium
+paymnt fail aaiduchu pls help,PAYMENT,high
+en parcel enga irukku,ORDER,medium
+romba kovama irukku ivlo naal aachu,FEEDBACK,high
+order cancel pannina paisa kudupeengala,REFUND,medium
+where is my package,ORDER,medium
+account delete karna hai,ACCOUNT,medium
+subscription band karo,SUBSCRIPTION,low
+delivery charge evlo aagum,DELIVERY,low
+mujhe galat item mila hai,REFUND,high
+payment methods enna enna irukku,PAYMENT,low
+bill kidaikala,INVOICE,low
